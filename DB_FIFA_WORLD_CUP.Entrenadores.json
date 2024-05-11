@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "663e8d9ee6827eaf54806824"
+  },
+  "nombre": "Lionel Scaloni",
+  "nacionalidad": "Argentina",
+  "experiencia": "Exfutbolista profesional",
+  "equipo": "Argentina"
+},
+{
+  "_id": {
+    "$oid": "663e8da9e6827eaf54806826"
+  },
+  "nombre": "Tite",
+  "nacionalidad": "Brasil",
+  "experiencia": "Exfutbolista profesional",
+  "equipo": "Brasil"
+},
+{
+  "_id": {
+    "$oid": "663e8db0e6827eaf54806828"
+  },
+  "nombre": "Fernando Santos",
+  "nacionalidad": "Portugal",
+  "experiencia": "Exfutbolista profesional",
+  "equipo": "Portugal"
+},
+{
+  "_id": {
+    "$oid": "663e8dbae6827eaf5480682a"
+  },
+  "nombre": "Didier Deschamps",
+  "nacionalidad": "Francia",
+  "experiencia": "Exfutbolista profesional",
+  "equipo": "Francia"
+},
+{
+  "_id": {
+    "$oid": "663e8dc4e6827eaf5480682c"
+  },
+  "nombre": "Luis Enrique",
+  "nacionalidad": "España",
+  "experiencia": "Exfutbolista profesional",
+  "equipo": "España"
+}]

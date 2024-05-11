@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "663e8f1de6827eaf54806851"
+  },
+  "equipo": "Argentina",
+  "puntos": 4,
+  "partidos_jugados": 2,
+  "partidos_ganados": 1,
+  "partidos_empatados": 1,
+  "partidos_perdidos": 0,
+  "goles_favor": 5,
+  "goles_contra": 4,
+  "diferencia_goles": 1
+},
+{
+  "_id": {
+    "$oid": "663e8f2be6827eaf54806853"
+  },
+  "equipo": "Brasil",
+  "puntos": 3,
+  "partidos_jugados": 2,
+  "partidos_ganados": 1,
+  "partidos_empatados": 0,
+  "partidos_perdidos": 1,
+  "goles_favor": 3,
+  "goles_contra": 3,
+  "diferencia_goles": 0
+},
+{
+  "_id": {
+    "$oid": "663e8f36e6827eaf54806855"
+  },
+  "equipo": "Francia",
+  "puntos": 2,
+  "partidos_jugados": 2,
+  "partidos_ganados": 0,
+  "partidos_empatados": 2,
+  "partidos_perdidos": 0,
+  "goles_favor": 3,
+  "goles_contra": 3,
+  "diferencia_goles": 0
+},
+{
+  "_id": {
+    "$oid": "663e8f3ce6827eaf54806857"
+  },
+  "equipo": "España",
+  "puntos": 1,
+  "partidos_jugados": 2,
+  "partidos_ganados": 0,
+  "partidos_empatados": 1,
+  "partidos_perdidos": 1,
+  "goles_favor": 1,
+  "goles_contra": 2,
+  "diferencia_goles": -1
+},
+{
+  "_id": {
+    "$oid": "663e8f44e6827eaf54806859"
+  },
+  "equipo": "Portugal",
+  "puntos": 3,
+  "partidos_jugados": 2,
+  "partidos_ganados": 1,
+  "partidos_empatados": 0,
+  "partidos_perdidos": 1,
+  "goles_favor": 2,
+  "goles_contra": 3,
+  "diferencia_goles": -1
+},
+{
+  "_id": {
+    "$oid": "663e8f54e6827eaf5480685b"
+  },
+  "equipo": "Croacia",
+  "puntos": 0,
+  "partidos_jugados": 2,
+  "partidos_ganados": 0,
+  "partidos_empatados": 0,
+  "partidos_perdidos": 2,
+  "goles_favor": 0,
+  "goles_contra": 3,
+  "diferencia_goles": -3
+}]

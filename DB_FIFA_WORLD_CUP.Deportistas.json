@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "663e7d61e6827eaf5480680b"
+  },
+  "nombre": "Lionel Messi",
+  "nacionalidad": "Argentina",
+  "posicion": "Delantero",
+  "equipo": "Argentina",
+  "numero_camiseta": 10,
+  "edad": 36,
+  "altura": 170,
+  "peso": 67
+},
+{
+  "_id": {
+    "$oid": "663e7d73e6827eaf5480680d"
+  },
+  "nombre": "Cristiano Ronaldo",
+  "nacionalidad": "Portugal",
+  "posicion": "Delantero",
+  "equipo": "Portugal",
+  "numero_camiseta": 7,
+  "edad": 39,
+  "altura": 187,
+  "peso": 83
+},
+{
+  "_id": {
+    "$oid": "663e7d80e6827eaf5480680f"
+  },
+  "nombre": "Neymar Jr.",
+  "nacionalidad": "Brasil",
+  "posicion": "Delantero",
+  "equipo": "Brasil",
+  "numero_camiseta": 10,
+  "edad": 32,
+  "altura": 175,
+  "peso": 68
+},
+{
+  "_id": {
+    "$oid": "663e7d8ce6827eaf54806811"
+  },
+  "nombre": "Luka Modric",
+  "nacionalidad": "Croacia",
+  "posicion": "Centrocampista",
+  "equipo": "Croacia",
+  "numero_camiseta": 10,
+  "edad": 38,
+  "altura": 172,
+  "peso": 66
+},
+{
+  "_id": {
+    "$oid": "663e7d95e6827eaf54806813"
+  },
+  "nombre": "Kylian Mbappé",
+  "nacionalidad": "Francia",
+  "posicion": "Delantero",
+  "equipo": "Francia",
+  "numero_camiseta": 7,
+  "edad": 25,
+  "altura": 178,
+  "peso": 75
+}]

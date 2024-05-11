@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "663e8e6de6827eaf5480683b"
+  },
+  "fecha": "2024-06-12",
+  "hora": "20:00",
+  "equipo_local": "Argentina",
+  "equipo_visitante": "Brasil",
+  "estadio": "Estadio Maracaná",
+  "ciudad": "Río de Janeiro",
+  "arbitro_principal": "Howard Webb",
+  "resultado": "3-2"
+},
+{
+  "_id": {
+    "$oid": "663e8e75e6827eaf5480683d"
+  },
+  "fecha": "2024-06-13",
+  "hora": "18:00",
+  "equipo_local": "Francia",
+  "equipo_visitante": "España",
+  "estadio": "Estadio Santiago Bernabéu",
+  "ciudad": "Madrid",
+  "arbitro_principal": "Pierluigi Collina",
+  "resultado": "1-1"
+},
+{
+  "_id": {
+    "$oid": "663e8e7ce6827eaf5480683f"
+  },
+  "fecha": "2024-06-14",
+  "hora": "17:30",
+  "equipo_local": "Portugal",
+  "equipo_visitante": "Croacia",
+  "estadio": "Estadio do Dragão",
+  "ciudad": "Oporto",
+  "arbitro_principal": "Felix Brych",
+  "resultado": "2-0"
+},
+{
+  "_id": {
+    "$oid": "663e8e83e6827eaf54806841"
+  },
+  "fecha": "2024-06-15",
+  "hora": "19:00",
+  "equipo_local": "Argentina",
+  "equipo_visitante": "Francia",
+  "estadio": "Estadio Monumental",
+  "ciudad": "Buenos Aires",
+  "arbitro_principal": "Néstor Pitana",
+  "resultado": "2-2"
+},
+{
+  "_id": {
+    "$oid": "663e8e8ae6827eaf54806843"
+  },
+  "fecha": "2024-06-16",
+  "hora": "20:30",
+  "equipo_local": "Brasil",
+  "equipo_visitante": "España",
+  "estadio": "Estadio Maracaná",
+  "ciudad": "Río de Janeiro",
+  "arbitro_principal": "Mark Geiger",
+  "resultado": "1-0"
+}]

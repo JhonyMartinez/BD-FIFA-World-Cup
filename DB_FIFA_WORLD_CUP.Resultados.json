@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "663e8eb7e6827eaf54806846"
+  },
+  "encuentro_id": 1,
+  "equipo_local": "Argentina",
+  "equipo_visitante": "Brasil",
+  "goles_local": 3,
+  "goles_visitante": 2,
+  "goles_local_por_jugador": [
+    {
+      "jugador": "Lionel Messi",
+      "goles": 2
+    },
+    {
+      "jugador": "Sergio Agüero",
+      "goles": 1
+    }
+  ],
+  "goles_visitante_por_jugador": [
+    {
+      "jugador": "Neymar Jr.",
+      "goles": 1
+    },
+    {
+      "jugador": "Gabriel Jesus",
+      "goles": 1
+    }
+  ],
+  "tarjetas_amarillas": [
+    {
+      "jugador": "Sergio Agüero",
+      "minuto": 30
+    },
+    {
+      "jugador": "Thiago Silva",
+      "minuto": 55
+    }
+  ],
+  "tarjetas_rojas": []
+},
+{
+  "_id": {
+    "$oid": "663e8ec7e6827eaf54806848"
+  },
+  "encuentro_id": 2,
+  "equipo_local": "Francia",
+  "equipo_visitante": "España",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "goles_local_por_jugador": [
+    {
+      "jugador": "Kylian Mbappé",
+      "goles": 1
+    }
+  ],
+  "goles_visitante_por_jugador": [
+    {
+      "jugador": "Sergio Ramos",
+      "goles": 1
+    }
+  ],
+  "tarjetas_amarillas": [],
+  "tarjetas_rojas": []
+},
+{
+  "_id": {
+    "$oid": "663e8ecfe6827eaf5480684a"
+  },
+  "encuentro_id": 3,
+  "equipo_local": "Portugal",
+  "equipo_visitante": "Croacia",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "goles_local_por_jugador": [
+    {
+      "jugador": "Cristiano Ronaldo",
+      "goles": 1
+    },
+    {
+      "jugador": "João Félix",
+      "goles": 1
+    }
+  ],
+  "goles_visitante_por_jugador": [],
+  "tarjetas_amarillas": [],
+  "tarjetas_rojas": []
+},
+{
+  "_id": {
+    "$oid": "663e8ed8e6827eaf5480684c"
+  },
+  "encuentro_id": 4,
+  "equipo_local": "Argentina",
+  "equipo_visitante": "Francia",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "goles_local_por_jugador": [
+    {
+      "jugador": "Lionel Messi",
+      "goles": 1
+    },
+    {
+      "jugador": "Paulo Dybala",
+      "goles": 1
+    }
+  ],
+  "goles_visitante_por_jugador": [
+    {
+      "jugador": "Antoine Griezmann",
+      "goles": 2
+    }
+  ],
+  "tarjetas_amarillas": [
+    {
+      "jugador": "Kylian Mbappé",
+      "minuto": 45
+    }
+  ],
+  "tarjetas_rojas": []
+},
+{
+  "_id": {
+    "$oid": "663e8ee9e6827eaf5480684e"
+  },
+  "encuentro_id": 5,
+  "equipo_local": "Brasil",
+  "equipo_visitante": "España",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "goles_local_por_jugador": [
+    {
+      "jugador": "Gabriel Jesus",
+      "goles": 1
+    }
+  ],
+  "goles_visitante_por_jugador": [],
+  "tarjetas_amarillas": [],
+  "tarjetas_rojas": []
+}]

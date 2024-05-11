@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "663e8d36e6827eaf54806816"
+  },
+  "nombre": "Argentina",
+  "pais": "Argentina",
+  "entrenador": "Lionel Scaloni",
+  "grupo": "Grupo A",
+  "jugadores": [
+    "Lionel Messi",
+    "Sergio Agüero",
+    "Paulo Dybala"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663e8d3ce6827eaf54806818"
+  },
+  "nombre": "Brasil",
+  "pais": "Brasil",
+  "entrenador": "Tite",
+  "grupo": "Grupo B",
+  "jugadores": [
+    "Neymar Jr.",
+    "Roberto Firmino",
+    "Casemiro"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663e8d48e6827eaf5480681a"
+  },
+  "nombre": "Portugal",
+  "pais": "Portugal",
+  "entrenador": "Fernando Santos",
+  "grupo": "Grupo C",
+  "jugadores": [
+    "Cristiano Ronaldo",
+    "Bruno Fernandes",
+    "João Félix"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663e8d50e6827eaf5480681c"
+  },
+  "nombre": "Francia",
+  "pais": "Francia",
+  "entrenador": "Didier Deschamps",
+  "grupo": "Grupo D",
+  "jugadores": [
+    "Kylian Mbappé",
+    "Antoine Griezmann",
+    "Paul Pogba"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663e8d56e6827eaf5480681e"
+  },
+  "nombre": "España",
+  "pais": "España",
+  "entrenador": "Luis Enrique",
+  "grupo": "Grupo E",
+  "jugadores": [
+    "Sergio Ramos",
+    "Sergio Busquets",
+    "David Silva"
+  ]
+}]

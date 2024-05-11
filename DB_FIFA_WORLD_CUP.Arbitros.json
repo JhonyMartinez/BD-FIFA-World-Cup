@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "663e8e38e6827eaf54806830"
+  },
+  "nombre": "Howard Webb",
+  "nacionalidad": "Inglaterra",
+  "experiencia": "Árbitro FIFA",
+  "partidos_dirigidos": 15
+},
+{
+  "_id": {
+    "$oid": "663e8e3ee6827eaf54806832"
+  },
+  "nombre": "Pierluigi Collina",
+  "nacionalidad": "Italia",
+  "experiencia": "Árbitro FIFA",
+  "partidos_dirigidos": 20
+},
+{
+  "_id": {
+    "$oid": "663e8e45e6827eaf54806834"
+  },
+  "nombre": "Felix Brych",
+  "nacionalidad": "Alemania",
+  "experiencia": "Árbitro FIFA",
+  "partidos_dirigidos": 18
+},
+{
+  "_id": {
+    "$oid": "663e8e4ce6827eaf54806836"
+  },
+  "nombre": "Néstor Pitana",
+  "nacionalidad": "Argentina",
+  "experiencia": "Árbitro FIFA",
+  "partidos_dirigidos": 17
+},
+{
+  "_id": {
+    "$oid": "663e8e53e6827eaf54806838"
+  },
+  "nombre": "Mark Geiger",
+  "nacionalidad": "Estados Unidos",
+  "experiencia": "Árbitro FIFA",
+  "partidos_dirigidos": 16
+}]
